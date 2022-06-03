@@ -1,0 +1,15 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {"modules": "cjs"}
+    ],
+    [
+      "@babel/preset-react"
+    ]
+  ],
+  "plugins": [
+    "transform-es2015-classes"
+  ]
+
+}
